@@ -1,0 +1,38 @@
+{
+  "version": "beta v1.0",
+  "conditions": {
+    "club": [
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
+      "Manchester United",
+      "Manchester City",
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Munich",
+      "Juventus"
+    ],
+    "nationality": [
+      "England",
+      "Brazil",
+      "France",
+      "Argentina",
+      "Spain",
+      "Germany",
+      "Portugal"
+    ],
+    "league": [
+      "Premier League",
+      "La Liga",
+      "Serie A",
+      "Bundesliga",
+      "Ligue 1"
+    ],
+    "position": [
+      "Forward",
+      "Midfielder",
+      "Defender",
+      "Goalkeeper"
+    ]
+  }
+}

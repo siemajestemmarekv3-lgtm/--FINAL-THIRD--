@@ -1,0 +1,30 @@
+BETA_CONDITIONS = [
+    {"type": "club", "value": "Arsenal"},
+    {"type": "club", "value": "Chelsea"},
+    {"type": "club", "value": "Liverpool"},
+    {"type": "club", "value": "Manchester United"},
+    {"type": "club", "value": "Manchester City"},
+    {"type": "club", "value": "Real Madrid"},
+    {"type": "club", "value": "Barcelona"},
+    {"type": "club", "value": "Bayern Munich"},
+    {"type": "club", "value": "Juventus"},
+
+    {"type": "nationality", "value": "England"},
+    {"type": "nationality", "value": "Brazil"},
+    {"type": "nationality", "value": "France"},
+    {"type": "nationality", "value": "Argentina"},
+    {"type": "nationality", "value": "Spain"},
+    {"type": "nationality", "value": "Germany"},
+    {"type": "nationality", "value": "Portugal"},
+
+    {"type": "league", "value": "Premier League"},
+    {"type": "league", "value": "La Liga"},
+    {"type": "league", "value": "Serie A"},
+    {"type": "league", "value": "Bundesliga"},
+    {"type": "league", "value": "Ligue 1"},
+
+    {"type": "position", "value": "Forward"},
+    {"type": "position", "value": "Midfielder"},
+    {"type": "position", "value": "Defender"},
+    {"type": "position", "value": "Goalkeeper"},
+]
